@@ -4,7 +4,7 @@
 
 **phone:** 8-918-017-017-7<br>
 **e-mail:** mashunaa7@gmail.com<br>
-**GitHub:** https://github.com/maria-kovalenko
+**GitHub:** [https://github.com/maria-kovalenko](https://github.com/maria-kovalenko)
 
 ---
 
@@ -50,16 +50,16 @@ return a * b;
 
 Examples of my work:
 
-1. https://github.com/maria-kovalenko/flour_mill
-2. https://github.com/maria-kovalenko/sup-board
-3. https://github.com/maria-kovalenko/test_project_builder
+1. [https://github.com/maria-kovalenko/flour_mill](https://github.com/maria-kovalenko/flour_mill)
+2. [https://github.com/maria-kovalenko/sup-board](https://github.com/maria-kovalenko/sup-board)
+3. [https://github.com/maria-kovalenko/test_project_builder](https://github.com/maria-kovalenko/test_project_builder)
 
 ---
 
 ## Education
 
 - Took courses on website layout HTML Academy, Hexlet, Code Basic.
-- JavaScript: https://learn.javascript.ru/
+- JavaScript: [https://learn.javascript.ru/](https://learn.javascript.ru/)
 
 ---
 
