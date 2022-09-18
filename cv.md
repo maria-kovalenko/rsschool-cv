@@ -2,8 +2,9 @@
 
 ## Contact information
 
-phone: 8-918-017-017-7<br>
-e-mail: mashunaa7@gmail.com
+**phone:** 8-918-017-017-7<br>
+**e-mail:** mashunaa7@gmail.com<br>
+**GitHub:** https://github.com/maria-kovalenko
 
 ---
 
@@ -36,9 +37,12 @@ I consider my strength to be the ability to work productively in a team, quick l
 
 ## Code example
 
+```
 function multiply(a, b) {<br>
 return a \* b;<br>
 }
+
+```
 
 ---
 
