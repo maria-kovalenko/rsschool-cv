@@ -38,8 +38,8 @@ I consider my strength to be the ability to work productively in a team, quick l
 ## Code example
 
 ```
-function multiply(a, b) {<br>
-return a \* b;<br>
+function multiply(a, b)
+return a * b;
 }
 
 ```
