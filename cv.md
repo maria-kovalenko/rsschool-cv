@@ -41,7 +41,6 @@ I consider my strength to be the ability to work productively in a team, quick l
 function multiply(a, b)
 return a * b;
 }
-
 ```
 
 ---
