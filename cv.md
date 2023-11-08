@@ -37,3 +37,27 @@ I consider my strength to be the ability to work productively in a team, quick l
    - vanilla js.
    - Vue.js
 5. Swiper.js
+
+## Code example
+
+```
+function multiply(a, b) {
+return a * b;
+}
+```
+
+## Work experience
+
+Examples of my work:
+1. https://github.com/maria-kovalenko/flour_mill
+2. https://github.com/maria-kovalenko/sup-board
+3. https://github.com/maria-kovalenko/test_project_builder
+
+## Education
+
+- Took courses on website layout HTML Academy, Hexlet, Code Basic.
+- JavaScript: https://learn.javascript.ru/
+
+## English language
+
+Level B1
